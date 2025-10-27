@@ -18,13 +18,20 @@
 ## 🧑‍💻 Author
 
 **Aditi Khare**  
-🌐 [AI Research Portfolio](https://aditikhare007.github.io/AI_Research_Junction_Aditi_Khare/)  
+**Aditi Khare**  
+🌐 [Aditi @ AI Product Portfolio](https://aditikhare007.github.io/AI_Research_Junction_Aditi_Khare/)  
 💌 [aditikhare007@gmail.com](mailto:aditikhare007@gmail.com)  
-📦 [GitHub](https://github.com/aditikhare007)  
+📦 [GitHub](https://github.com/aditikhare007)
+
+---
+
+## 🤝 Connect with Me
+
 💼 [LinkedIn](https://www.linkedin.com/in/aditikhare007)  
 🐦 [X / Twitter](https://twitter.com/AditiKhare007)  
 🤗 [Hugging Face](https://huggingface.co/AditiKhare007)  
 📚 [Packt Publications](https://www.packtpub.com/) – Contributor: *Generative AI Application Integration Patterns (2024)*  
+
 
 ---
 
@@ -73,6 +80,8 @@ The workflow also uses a **Calculator Tool** for on-the-fly computations, demons
 
 ## 📸 Workflow Screenshot
 *(Optional – add your screenshot here)*  
+<img width="794" height="122" alt="image" src="https://github.com/user-attachments/assets/7bae9397-7694-4cf1-8c13-3a09cc79c8ce" />
+
 
 ---
 
