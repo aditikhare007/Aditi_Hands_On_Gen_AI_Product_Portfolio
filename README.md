@@ -4,7 +4,7 @@
 </p>
 
 # 🤖 n8n AI Chat Agent Workflow  
-<h1>**Aditi’s AI Hands Gen-AI & Agentic AI Product Portfolio**</h1>
+<h1>**Aditi Khare's AI Hands-On Gen-AI & Agentic AI Product Portfolio**</h1>
 
 ---
 
