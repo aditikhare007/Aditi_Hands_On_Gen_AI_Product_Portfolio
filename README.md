@@ -1,46 +1,62 @@
-# 🤖 n8n AI Chat Agent — Cohere + LangChain Workflow
-
-## 🧠 Overview
-This n8n workflow integrates **LangChain** and **Cohere’s Chat Model** to create an **AI-powered conversational agent** that can also perform **mathematical calculations** using a built-in calculator tool.
-
-Whenever a chat message is received, the workflow triggers an AI Agent powered by Cohere’s LLM to generate intelligent responses — with logic support for reasoning-based tasks and calculations.
+# 🤖 n8n AI Chat Agent Workflow  
+**Part of Aditi’s AI Hands Gen-AI & Agentic AI Product Portfolio**
 
 ---
 
-## ⚙️ Workflow Components
-
-| Node | Type | Purpose |
-|------|------|----------|
-| 🟢 **When Chat Message Received** | `@n8n/n8n-nodes-langchain.chatTrigger` | Triggers the workflow when a new chat message is received |
-| 🧩 **AI Agent** | `@n8n/n8n-nodes-langchain.agent` | Central LangChain Agent orchestrating responses |
-| 💬 **Cohere Chat Model** | `@n8n/n8n-nodes-langchain.lmChatCohere` | Uses Cohere LLM API to generate natural language responses |
-| ➕ **Calculator** | `@n8n/n8n-nodes-langchain.toolCalculator` | Performs arithmetic or logical computations within responses |
+![n8n](https://img.shields.io/badge/Automation-n8n-orange?logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/Framework-LangChain-blue?logo=chainlink)
+![Cohere](https://img.shields.io/badge/LLM-Cohere-purple?logo=cohere&logoColor=white)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-green?logo=node.js)
 
 ---
 
-## 🪄 Workflow Logic
+## 🚀 Project Overview
 
-**Event Flow:**
-
-1. **Trigger:**  
-   A chat message is received via the `Chat Trigger` node.
-
-2. **Processing:**  
-   The message is passed to the **AI Agent**, which connects to:
-   - **Cohere Chat Model** for intelligent text generation.
-   - **Calculator Tool** for performing numeric computations.
-
-3. **Response:**  
-   The AI Agent produces a dynamic response — blending language understanding and calculation results.
+As part of **Aditi's AI Hands Gen-AI & Agentic AI Product Portfolio**, this project showcases a **Chat Agent workflow** built in **n8n** that integrates **LangChain** and **Cohere’s Chat Model** to deliver conversational intelligence and reasoning-based automation.  
+The workflow also uses a **Calculator Tool** for on-the-fly computations, demonstrating how LLMs can interact with logic-based modules.
 
 ---
 
-## 🚀 Setup Instructions
+## ⚙️ How to Use
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/n8n-ai-agent-workflow.git
-   cd n8n-ai-agent-workflow
+### 🧩 Import Workflow
+1. Open your **n8n Dashboard**.  
+2. Go to **Workflows → Import from File**.  
+3. Upload the `workflow.json` from this repository.  
+
+### 🔑 Set Up Credentials
+- Add your **Cohere API Key** under  
+  **Credentials → CohereApi account**.  
+- (Optional) Configure **Webhook Endpoints** if you want external triggers.  
+
+### ▶️ Activate Workflow
+1. Turn on the workflow.  
+2. Test by sending a message to trigger the agent.  
+
+---
+
+## 💡 Example Use Cases
+- AI-powered customer support chatbot  
+- Conversational assistants with logical reasoning  
+- Research or analysis bots combining text + math  
+
+---
+
+## 🧠 Tech Stack
+
+| Component | Description |
+|------------|-------------|
+| **n8n** | No-code automation platform |
+| **LangChain** | Framework for LLM-driven reasoning workflows |
+| **Cohere** | LLM provider for natural language generation |
+| **Node.js** | Runtime environment for n8n execution |
+
+---
+
+## 📸 Workflow Screenshot
+*(Optional – add your screenshot here)*  
+
+---
 
 ## 📚 Learnings
 
@@ -69,8 +85,4 @@ Whenever a chat message is received, the workflow triggers an AI Agent powered b
 
 ---
 
-⭐ *Part of Aditi’s AI Hands 0n Gen-AI & Agentic AI Product Portfolio*  
----
-
 © 2025 **Aditi Khare**. All rights reserved.
-
