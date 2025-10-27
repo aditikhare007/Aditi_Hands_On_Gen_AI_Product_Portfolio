@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/ai_agent_banner.png" alt="Aditi Khare - n8n AI Chat Agent Workflow Banner" width="100%">
+</p>
+
 # 🤖 n8n AI Chat Agent Workflow  
 **Part of Aditi’s AI Hands Gen-AI & Agentic AI Product Portfolio**
 
@@ -7,6 +11,19 @@
 ![LangChain](https://img.shields.io/badge/Framework-LangChain-blue?logo=chainlink)
 ![Cohere](https://img.shields.io/badge/LLM-Cohere-purple?logo=cohere&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-green?logo=node.js)
+
+---
+
+## 🧑‍💻 Author
+
+**Aditi Khare**  
+🌐 [AI Research Portfolio](https://aditikhare007.github.io/AI_Research_Junction_Aditi_Khare/)  
+💌 [aditikhare007@gmail.com](mailto:aditikhare007@gmail.com)  
+📦 [GitHub](https://github.com/aditikhare007)  
+💼 [LinkedIn](https://www.linkedin.com/in/aditikhare007)  
+🐦 [X / Twitter](https://twitter.com/AditiKhare007)  
+🤗 [Hugging Face](https://huggingface.co/AditiKhare007)  
+📚 [Packt Publications](https://www.packtpub.com/) – Contributor: *Generative AI Application Integration Patterns (2024)*  
 
 ---
 
@@ -64,24 +81,6 @@ The workflow also uses a **Calculator Tool** for on-the-fly computations, demons
 - Integrating **Cohere’s Chat Model** for dynamic responses  
 - Using tools (like **Calculator**) to extend LLM capabilities  
 - Structuring **multi-node automation workflows**  
-
----
-
-## 🧑‍💻 Author
-
-**Aditi Khare**  
-🌐 [Aditi @ AI Product Portfolio](https://aditikhare007.github.io/AI_Research_Junction_Aditi_Khare/)  
-💌 [aditikhare007@gmail.com](mailto:aditikhare007@gmail.com)  
-📦 [GitHub](https://github.com/aditikhare007)
-
----
-
-## 🤝 Connect with Me
-
-💼 [LinkedIn](https://www.linkedin.com/in/aditikhare007)  
-🐦 [X / Twitter](https://twitter.com/AditiKhare007)  
-🤗 [Hugging Face](https://huggingface.co/AditiKhare007)  
-📚 [Packt Publications](https://www.packtpub.com/) – Contributor: *Generative AI Application Integration Patterns (2024)*  
 
 ---
 
