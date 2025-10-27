@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/ai_agent_banner.png" alt="Aditi Khare - n8n AI Chat Agent Workflow Banner" width="100%">
+  <img src="https://github.com/aditikhare007/Aditi_Hands_On_Gen_AI_Product_Portfolio/blob/main/Agentic_AI_Banner.png" 
+       alt="Aditi Khare - Agentic AI Banner" width="100%">
 </p>
 
 # 🤖 n8n AI Chat Agent Workflow  
