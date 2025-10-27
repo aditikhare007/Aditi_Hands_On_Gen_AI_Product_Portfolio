@@ -54,7 +54,7 @@ Whenever a chat message is received, the workflow triggers an AI Agent powered b
 ## 🧑‍💻 Author
 
 **Aditi Khare**  
-🌐 [AI Research Portfolio](https://aditikhare007.github.io/AI_Research_Junction_Aditi_Khare/)  
+🌐 [Aditi @ AI Product Portfolio](https://aditikhare007.github.io/AI_Research_Junction_Aditi_Khare/)  
 💌 [aditikhare007@gmail.com](mailto:aditikhare007@gmail.com)  
 📦 [GitHub](https://github.com/aditikhare007)
 
