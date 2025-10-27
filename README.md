@@ -41,3 +41,36 @@ Whenever a chat message is received, the workflow triggers an AI Agent powered b
    ```bash
    git clone https://github.com/yourusername/n8n-ai-agent-workflow.git
    cd n8n-ai-agent-workflow
+
+## 📚 Learnings
+
+- Building AI agents in **n8n** using **LangChain**  
+- Integrating **Cohere’s Chat Model** for dynamic responses  
+- Using tools (like **Calculator**) to extend LLM capabilities  
+- Structuring **multi-node automation workflows**  
+
+---
+
+## 🧑‍💻 Author
+
+**Aditi Khare**  
+🌐 [AI Research Portfolio](https://aditikhare007.github.io/AI_Research_Junction_Aditi_Khare/)  
+💌 [aditikhare007@gmail.com](mailto:aditikhare007@gmail.com)  
+📦 [GitHub](https://github.com/aditikhare007)
+
+---
+
+## 🤝 Connect with Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/aditikhare007)  
+🐦 [X / Twitter](https://twitter.com/AditiKhare007)  
+🤗 [Hugging Face](https://huggingface.co/AditiKhare007)  
+📚 [Packt Publications](https://www.packtpub.com/) – Contributor: *Generative AI Application Integration Patterns (2024)*  
+
+---
+
+⭐ *Part of Aditi’s AI Hands 0n Gen-AI & Agentic AI Product Portfolio*  
+---
+
+© 2025 **Aditi Khare**. All rights reserved.
+
