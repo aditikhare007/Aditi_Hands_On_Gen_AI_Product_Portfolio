@@ -79,7 +79,7 @@ The workflow also uses a **Calculator Tool** for on-the-fly computations, demons
 ---
 
 ## 📸 Workflow Screenshot
-*(Optional – add your screenshot here)*  
+
 <img width="794" height="122" alt="image" src="https://github.com/user-attachments/assets/7bae9397-7694-4cf1-8c13-3a09cc79c8ce" />
 
 
