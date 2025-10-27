@@ -4,7 +4,7 @@
 </p>
 
 # 🤖 n8n AI Chat Agent Workflow  
-**Part of Aditi’s AI Hands Gen-AI & Agentic AI Product Portfolio**
+<h1>**Aditi’s AI Hands Gen-AI & Agentic AI Product Portfolio**</h1>
 
 ---
 
@@ -17,7 +17,6 @@
 
 ## 🧑‍💻 Author
 
-**Aditi Khare**  
 **Aditi Khare**  
 🌐 [Aditi @ AI Product Portfolio](https://aditikhare007.github.io/AI_Research_Junction_Aditi_Khare/)  
 💌 [aditikhare007@gmail.com](mailto:aditikhare007@gmail.com)  
